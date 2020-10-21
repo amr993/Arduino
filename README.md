@@ -1,2 +1,2 @@
-# Arduino
-This repository contains all projects related to Arduino uno projects
+# Tiva C
+This repository contains all projects related to TM4C123G microcontroller
